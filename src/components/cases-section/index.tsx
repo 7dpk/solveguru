@@ -46,17 +46,17 @@ const ParticleBg = () => (
 const articles = [
   {
     title: `Velit reprehenderit culpa Lorem reprehenderit excepteur ipsum esse.`,
-    image: `/images/case-1.webp`,
+    image: `./images/case-1.webp`,
     alt: `Proident pariatur est.`,
   },
   {
     title: `Velit reprehenderit culpa Lorem reprehenderit ipsum esse.`,
-    image: `/images/case-2.webp`,
+    image: `./images/case-2.webp`,
     alt: `Proident pariatur est.`,
   },
   {
     title: `Velit reprehenderit culpa Lorem reprehenderit excepteur esse.`,
-    image: `/images/case-3.webp`,
+    image: `./images/case-3.webp`,
     alt: `Proident pariatur est.`,
   },
 ];
